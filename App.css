@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.Box {
+    width: 500px;
+    height: 500px;
+}
+
+.Guess {
+    display: flex;
+    gap: 9em;
+}
